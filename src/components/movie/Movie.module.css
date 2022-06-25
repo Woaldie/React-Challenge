@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: inline-block; 
+    padding: 0.5rem;
+    max-width: 20rem;
+}
+
+.item {  
+    display: grid;
+    max-height: 100rem;
+}
+
+.btn{
+    float: right;
+}
